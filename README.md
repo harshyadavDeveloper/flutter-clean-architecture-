@@ -1,16 +1,15 @@
-# create_user_app
 
-A new Flutter project.
+# Create User App using Flutter Clean Architecture 
 
-## Getting Started
+This is a single functionality app I created to understand flutter clean Architecture along with Bloc state management. By creating this project i got to lean alot about flutter clean Architecture and how to write industry standard code which is highly maintainable and efficient. Learned to manage states using bloc and got familiar with a lot flutter package and widgets.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Acknowledgements
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+ - [dbestect youtube channel](https://www.youtube.com/watch?v=_E3EF1jPumM)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Authors
+
+- [@harshyadavDeveloper](https://github.com/harshyadavDeveloper)
+
